@@ -19,22 +19,22 @@
 - 회원가입, 여행상품 목록
 - 장바구니, Q&A게시판
 - 마이페이지, 챗봇
-- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/77b04590-7e90-45b7-b14e-58694877da37)
+![프레젠테이션1_나눔(한글나눔고딕)_8](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/f05dbd28-8160-406a-823d-4676d5aa760e)
+
 
 
 ## 나의 역할
 - 회원가입 CRUD
 - 챗봇, 추천검색어 창
-- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/cc965e49-db0b-4333-9f9f-06f5794496ae)
-
-- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/2140a77d-dc86-4da7-b750-990a7a45d075)
-
-
+![프레젠테이션1_나눔(한글나눔고딕)_9](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/42e15fd3-118f-49a1-8d5d-afceb6d4f4b1)
+![프레젠테이션1_나눔(한글나눔고딕)_10](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/e08fb2b9-5e4c-4424-8d4c-e709b3daae8a)
 
 
 ## ERD
-![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/21cd4c79-e72f-413e-b59f-5f1517f064b5)
+![프레젠테이션1_나눔(한글나눔고딕)_12](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/6ff8d945-5ef3-4406-8bda-50863c49aa37)
+
 
 
 ##개발환경
-![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/f14a5e7b-29e5-4064-a9a0-9b04b8eee2ed)
+![프레젠테이션1_나눔(한글나눔고딕)_13](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/29787af5-0934-445f-83f8-245e50e2c304)
+
