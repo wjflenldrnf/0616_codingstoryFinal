@@ -5,6 +5,7 @@
 
 ## 프로젝트 소개
 관광상품 판매 페이지
+![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/47a9e05f-7fd9-4256-8f1c-1bc724f4e28e)
 
 ## 기술 스택
 - JAVA, JS, MySQL, Thymeleaf
@@ -18,13 +19,16 @@
 - 회원가입, 여행상품 목록
 - 장바구니, Q&A게시판
 - 마이페이지, 챗봇
+- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/77b04590-7e90-45b7-b14e-58694877da37)
+
 
 ## 나의 역할
 - 회원가입 CRUD
 - 챗봇, 추천검색어 창
+- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/cc965e49-db0b-4333-9f9f-06f5794496ae)
 
-##
-![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/47a9e05f-7fd9-4256-8f1c-1bc724f4e28e)
+- ![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/2140a77d-dc86-4da7-b750-990a7a45d075)
+
 
 
 
