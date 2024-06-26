@@ -21,6 +21,7 @@
 - 시큐리티, OAuth2로 로그인
 - 일정표, 보고서, 부서등록
 - 근태관리, 급여관리
+  
 ![프레젠테이션1_나눔(한글나눔고딕)_18](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/b080748b-b783-4220-bbf8-28420eb6e2a5)
 
 
