@@ -27,6 +27,7 @@
 ## 나의 역할
 - 근태관리, 급여관리
 - 네이버API
+
 ![프레젠테이션1_나눔(한글나눔고딕)_16](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/3dc7525d-6c77-455b-9f3b-509cb48f46b4)
 ![프레젠테이션1_나눔(한글나눔고딕)_17](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/1b2e9df4-21f0-4118-aa83-1686da0a61fb)
 
