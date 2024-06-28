@@ -32,8 +32,14 @@
 ![프레젠테이션1_나눔(한글나눔고딕)_16](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/3dc7525d-6c77-455b-9f3b-509cb48f46b4)
 ![프레젠테이션1_나눔(한글나눔고딕)_17](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/1b2e9df4-21f0-4118-aa83-1686da0a61fb)
 
+## 시연 영상
+![4-ezgif com-video-to-gif-converter](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/8f9760ec-2625-4944-ba82-a71d909d48e8)
+![5-ezgif com-video-to-gif-converter](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/a7b67d10-b33d-427f-88c4-db37d5997227)
+
+
 ## ERD
-![프레젠테이션1_나눔(한글나눔고딕)_19](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/1b0c3d8e-7714-41f2-8731-186859c27740)
+![image](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/ebc901a8-cb15-443c-a5a6-af756d9d6d2d)
+
 
 ## 개발 환경
 ![프레젠테이션1_나눔(한글나눔고딕)_20](https://github.com/wjflenldrnf/0616_codingstoryFinal/assets/154856783/911c11bc-8936-4ef5-b91d-f25127bf0b91)
